@@ -1,0 +1,7 @@
+This is a file for everyone to make a memo for the project. Everyone is welcome to add!
+---
+To generate a Java Doc: paste the following comment into the Terminal of Intellij and run, (there is an "." in the end)
+javadoc -d ./javadoc/ -sourcepath ./src -subpackages .
+---
+If you want to inherit a javadoc from super class method add {@inheritDoc} inside the javadoc.
+But remember this is sometimes not necessary, because the javadoc is implicitly copied from the super class.
