@@ -1,0 +1,52 @@
+Karla Hurst
+770 898 021
+Balance: 768
+Interest rate per annum: 0.92
+Savings Account 1
+Balance: 2070
+Interest rate per annum: 1.5
+
+Pamela Dickson
+971 875 372
+Chequing Account
+Balance: 36358866
+Interest rate per annum: 2.3
+Savings Account 1
+Balance: 5395448
+Interest rate per annum: 2.35
+Savings Account 2
+Balance: 23045442
+Interest rate per annum: 2.25
+Savings Account 3
+Balance: 14316660
+Interest rate per annum: 2.35
+Savings Account 4
+Balance: 45068981
+Interest rate per annum: 2.05
+Savings Account 5
+Balance: 4438330
+Interest rate per annum: 2.1
+Savings Account 6
+Balance: 16260321
+Interest rate per annum: 2.45
+Savings Account 7
+Balance: 7491204
+Interest rate per annum: 2.4
+Savings Account 8
+Balance: 23330669
+Interest rate per annum: 2.0
+
+Roland Lozano
+853 887 123
+Chequing Account
+Balance: 1585
+Interest rate per annum: 0.63
+Savings Account 1
+Balance: 1170
+Interest rate per annum: 0.05
+Savings Account 2
+Balance: 1401
+Interest rate per annum: 0.34
+Savings Account 3
+Balance: 3673
+Interest rate per annum: 0.92

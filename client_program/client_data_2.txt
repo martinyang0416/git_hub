@@ -1,0 +1,149 @@
+Karla Hurst
+770 898 021
+Chequing Account
+Balance: 768
+Interest rate per annum: 0.92
+Savings Account 1
+Balance: 2070
+Interest rate per annum: 1.5
+
+Maurice Daisy
+770 898 021
+Chequing Account
+Balance: 768
+Interest rate per annum: 0.92
+Savings Account 1
+Balance: 2070
+Interest rate per annum: 1.5
+
+Pamela Dickson
+971 875 372
+Chequing Account
+Balance: 36358866
+Interest rate per annum: 2.3
+Savings Account 1
+Balance: 5395448
+Interest rate per annum: 2.35
+Savings Account 2
+Balance: 23045442
+Interest rate per annum: 2.25
+Savings Account 3
+Balance: 14316660
+Interest rate per annum: 2.35
+Savings Account 4
+Balance: 45068981
+Interest rate per annum: 2.05
+Savings Account 5
+Balance: 4438330
+Interest rate per annum: 2.1
+Savings Account 6
+Balance: 16260321
+Interest rate per annum: 2.45
+Savings Account 7
+Balance: 7491204
+Interest rate per annum: 2.4
+Savings Account 8
+Balance: 23330669
+Interest rate per annum: 2.0
+
+Roland Lozano
+853 887 123
+Chequing Account
+Balance: 1585
+Interest rate per annum: 0.63
+Savings Account 1
+Balance: 1170
+Interest rate per annum: 0.05
+Savings Account 2
+Balance: 1401
+Interest rate per annum: 0.34
+Savings Account 3
+Balance: 3673
+Interest rate per annum: 0.92
+
+Louise Revilla
+853 887 123
+Chequing Account
+Balance: 1585
+Interest rate per annum: 0.63
+Savings Account 1
+Balance: 1170
+Interest rate per annum: 0.05
+Savings Account 2
+Balance: 1401
+Interest rate per annum: 0.34
+Savings Account 3
+Balance: 3673
+Interest rate per annum: 0.92
+
+Alvin Beacom
+521 494 658
+Chequing Account
+Balance: 913
+Interest rate per annum: 1.5
+Savings Account 1
+Balance: 733
+Interest rate per annum: 0.63
+
+Heather Callahan
+623 827 565
+Chequing Account
+Balance: 34302106
+Interest rate per annum: 2.05
+Savings Account 1
+Balance: 20328170
+Interest rate per annum: 2.3
+Savings Account 2
+Balance: 39731637
+Interest rate per annum: 2.15
+Savings Account 3
+Balance: 18462373
+Interest rate per annum: 2.3
+Savings Account 4
+Balance: 36642460
+Interest rate per annum: 2.2
+Savings Account 5
+Balance: 39373170
+Interest rate per annum: 2.4
+Savings Account 6
+Balance: 28580891
+Interest rate per annum: 2.1
+Savings Account 7
+Balance: 37368572
+Interest rate per annum: 2.15
+Savings Account 8
+Balance: 33702574
+Interest rate per annum: 2.2
+Savings Account 9
+Balance: 21639888
+Interest rate per annum: 2.45
+
+Robert Garza
+133 295 618
+Chequing Account
+Balance: 44426
+Interest rate per annum: 1.7
+Savings Account 1
+Balance: 24374
+Interest rate per annum: 1.7
+
+Monica Girard
+521 494 658
+Chequing Account
+Balance: 913
+Interest rate per annum: 1.5
+Savings Account 1
+Balance: 733
+Interest rate per annum: 0.63
+
+Thomas Strohm
+454 554 353
+Chequing Account
+Balance: 3639
+Interest rate per annum: 2.08
+Savings Account 1
+Balance: 3432
+Interest rate per annum: 2.66
+Savings Account 2
+Balance: 4059
+Interest rate per annum: 0.92
